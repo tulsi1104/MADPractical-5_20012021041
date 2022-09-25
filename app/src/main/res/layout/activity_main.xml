@@ -21,7 +21,7 @@
         <ImageView
             android:layout_width="fill_parent"
             android:layout_height="400dp"
-            android:src="@drawable/smile" />
+            android:src="@drawable/p1" />
 
     </com.google.android.material.card.MaterialCardView>
 
